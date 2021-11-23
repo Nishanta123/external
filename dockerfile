@@ -1,4 +1,5 @@
-se Google base image for NodeJS
+
+# Use Google base image for NodeJS
 FROM launcher.gcr.io/google/nodejs
 
 # Copy application code.
